@@ -33,7 +33,11 @@ I am a Front-end web developer from Russia :ru:
 ---
 
 ### :fire: My Stats :
+<div align="center">
 
+![Codewars](https://github.r2v.ch/codewars?user=zerovolk&name=true)
+  
+</div>
 <div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zerovolk&theme=buefy&background=E6DBFF88)](https://git.io/streak-stats)

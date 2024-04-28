@@ -47,9 +47,7 @@ I am a Front-end web developer from Russia :ru:
 <div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerovolk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zerovolk)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
+    
 </div>
 
 ---

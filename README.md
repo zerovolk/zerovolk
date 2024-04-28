@@ -9,7 +9,7 @@
 I am a Front-end web developer from Russia :ru:
 - :telescope: I’m studying and looking for job
 
-- :seedling: Learning Vue 3
+- :seedling: Learning Vue 3 and ReactJS
 
 - :house_with_garden: In my free time, chilling or do sport, but mostly chilling
 

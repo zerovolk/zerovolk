@@ -7,11 +7,7 @@
  
 ### :man_technologist: About Me :
 I am a Front-end web developer from Russia :ru:
-- :telescope: I’m studying and looking for job
-
-- :seedling: Learning Vue 3 and ReactJS
-
-- :house_with_garden: In my free time, chilling or do sport, but mostly chilling
+- :seedling: I know Vue 3 and ReactJS
 
 - :mailbox: How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='20'>](https://t.me/ASozykin)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='20'>](https://vk.com/zerovolk)
 
